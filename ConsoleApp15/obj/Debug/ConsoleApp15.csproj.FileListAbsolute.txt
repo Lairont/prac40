@@ -1,0 +1,7 @@
+D:\215\БД\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+D:\215\БД\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+D:\215\БД\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+D:\215\БД\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.AssemblyReference.cache
+D:\215\БД\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+D:\215\БД\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+D:\215\БД\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
