@@ -1,0 +1,6 @@
+D:\215\БД\ConsoleApp16\bin\Debug\ConsoleApp16.exe.config
+D:\215\БД\ConsoleApp16\bin\Debug\ConsoleApp16.exe
+D:\215\БД\ConsoleApp16\bin\Debug\ConsoleApp16.pdb
+D:\215\БД\ConsoleApp16\obj\Debug\ConsoleApp16.csproj.CoreCompileInputs.cache
+D:\215\БД\ConsoleApp16\obj\Debug\ConsoleApp16.exe
+D:\215\БД\ConsoleApp16\obj\Debug\ConsoleApp16.pdb
