@@ -21,7 +21,10 @@ namespace ConsoleApp18
                 Console.WriteLine($"Сумма чисел от {m} до {n}: {del(m, n)}");
             }
         }
-        static int Sum(int m, int n) => (n - m + 1) * (m + n) / 2;
+        static int Sum(int m, int n) 
+        {
+             return (n - m + 1) * (m + n) / 2;
+        }
 
 
     }
